@@ -126,8 +126,9 @@ MY GITHUB PROFILE
 </details>
 
 <h3 align="left">Activity:</h3>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad7663&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
 
-![Ahmad7663's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad7663&custom_title=Ahmed's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Ahmad7663's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad7663&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
