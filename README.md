@@ -5,7 +5,7 @@ MY GITHUB PROFILE
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm AHMED HASSAN</h1>
-<h3 align="center">An Enthusiastic and Dedicated Programmer from PAKISTAN</h3>
+<h3 align="center">An Enthusiastic and Dedicated Programmer from PAKISTAN🇵🇰</h3>
 <p align="center">I am captivated by the transformative power of computer technology 🌐, which has reshaped our lives in ways once unimaginable. Witnessing the evolution of computer science inspired me to pursue software engineering from a young age, and my enthusiasm for the field has only deepened since. I also love exploring new tech stacks 💻 and using them to create innovative solutions that make a meaningful impact🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Ahmad7663&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed hassan" /> 
