@@ -67,7 +67,7 @@ MY GITHUB PROFILE
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,androidstudio,html" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ MY GITHUB PROFILE
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,cpp,css,gitlab" />
   </a>
 </p>
 
