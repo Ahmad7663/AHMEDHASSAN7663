@@ -123,7 +123,7 @@ MY GITHUB PROFILE
 <br/>
 <div align="center">
  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=algolia\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=algolia\&show_icons=true\&show=reviews,discussions_answered,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad7663&theme=midnight-purple)](https://git.io/streak-stats)
 
