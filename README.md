@@ -104,8 +104,8 @@ MY GITHUB PROFILE
 <img src="https://github-profile-trophy.vercel.app/?username=Ahmad7663&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad7663&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmad7663&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations">
  </div>
  <br><br>
 
