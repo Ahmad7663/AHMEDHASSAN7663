@@ -98,16 +98,9 @@ MY GITHUB PROFILE
 
 <h3 align="left">Trophies:</h3>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ahmad7663&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Ahmad7663) 
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Ahmad7663&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=MultiLanguage,Repositories,Organizations,Commits,PullRequest)](https://github.com/Ahmad7663) 
 </div>
-  
-
- <br><br>
-
 <h3 align="left">GitHub Stats:</h3>
-
-
-<br/>
 
 <div align="center">
  
