@@ -116,10 +116,12 @@ MY GITHUB PROFILE
 
 
 <br/>
+
 <div align="center">
  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=algolia\&show_icons=true\&show=reviews,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github&hide=contribs,issues)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad7663&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 <details open align="center">
@@ -137,7 +139,7 @@ MY GITHUB PROFILE
 
 <a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
 
- ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@walidbosso&no-frame=true&layout=compact&&theme=algolia&link="https://www.github.com/walidbosso/") 
+ ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@Ahmad7663&no-frame=true&layout=compact&&theme=algolia&link="https://www.github.com/Ahmad7663/") 
 
 
 <!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
