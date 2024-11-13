@@ -113,17 +113,12 @@ MY GITHUB PROFILE
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
- <p align="center">
-<a href="https://github.com/Ahmad7663">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad7663&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
-
-</a>
 
 <br/>
 <div align="center">
  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=algolia\&show_icons=true\&show=reviews,discussions_answered,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=algolia\&show_icons=true\&show=reviews,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad7663&theme=midnight-purple)](https://git.io/streak-stats)
 
