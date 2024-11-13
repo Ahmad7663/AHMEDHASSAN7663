@@ -34,15 +34,14 @@ MY GITHUB PROFILE
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my project's details are available at [supun's workspace](https://ahmad7663.github.io/AhmedHassan.github.io/#teams)
+- 👨‍💻 All of my project's details are available at [AHmed's Projects](https://ahmad7663.github.io/AhmedHassan.github.io/#teams)
 
 - 💬 Ask me about **C++, Javascript,React,**
 
 - 📫 How to reach me **ahmedhassan7663@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://ahmad7663.github.io/AhmedHassan.github.io/#about)
+- 📄 Know about my experiences [My Experiences](https://ahmad7663.github.io/AhmedHassan.github.io/#about)
 
-- ⚡ Fun fact **I think I'm funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
