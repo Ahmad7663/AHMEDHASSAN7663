@@ -113,6 +113,14 @@ MY GITHUB PROFILE
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
+ <p align="center">
+<a href="https://github.com/Ahmad7663">
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad7663&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
+
+</a>
+
+<br/>
 <div align="center">
  
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
