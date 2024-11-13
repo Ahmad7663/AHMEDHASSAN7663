@@ -121,6 +121,7 @@ MY GITHUB PROFILE
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad7663\&theme=algolia\&show_icons=true\&show=reviews,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad7663&theme=midnight-purple)](https://git.io/streak-stats)
+ [![Ahmed's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/Ahmad7663) </br></br>
 
 </div>
 <details open align="center">
