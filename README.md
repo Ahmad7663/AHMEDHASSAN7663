@@ -9,8 +9,6 @@ MY GITHUB PROFILE
 <p align="center">I am captivated by the transformative power of computer technology 🌐, which has reshaped our lives in ways once unimaginable. Witnessing the evolution of computer science inspired me to pursue software engineering from a young age, and my enthusiasm for the field has only deepened since. I also love exploring new tech stacks 💻 and using them to create innovative solutions that make a meaningful impact🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Ahmad7663&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed hassan" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
 <div align="center">
@@ -36,13 +34,13 @@ MY GITHUB PROFILE
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my project's details are available at [supun's workspace](https://ahmad7663.github.io/AhmedHassan.github.io/#teams)
 
 - 💬 Ask me about **C++, Javascript,React,**
 
 - 📫 How to reach me **ahmedhassan7663@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences](https://ahmad7663.github.io/AhmedHassan.github.io/#about)
 
 - ⚡ Fun fact **I think I'm funny**
 
