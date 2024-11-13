@@ -5,7 +5,7 @@ MY GITHUB PROFILE
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm AHMED HASSAN</h1>
-<h3 align="center">An Enthusiastic and Dedicated Programmer from PAKISTAN &#x1F1F5;&#x1F1F0;</h3>
+<h3 align="center">An Enthusiastic and Dedicated Programmer from PAKISTAN <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="PK" width="20px"></h3>
 <p align="center">I am captivated by the transformative power of computer technology 🌐, which has reshaped our lives in ways once unimaginable. Witnessing the evolution of computer science inspired me to pursue software engineering from a young age, and my enthusiasm for the field has only deepened since. I also love exploring new tech stacks 💻 and using them to create innovative solutions that make a meaningful impact🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Ahmad7663&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed hassan" /> 
@@ -32,15 +32,15 @@ MY GITHUB PROFILE
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working at Nexentra Solutions**
 
 - 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **C++, Javascript,React,**
 
-- 📫 How to reach me **supunanjanananayakkara@gmail.com**
+- 📫 How to reach me **ahmedhassan7663@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
