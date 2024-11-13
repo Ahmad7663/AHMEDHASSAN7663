@@ -34,7 +34,7 @@ MY GITHUB PROFILE
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my project's details are available at [AHmed's Projects](https://ahmad7663.github.io/AhmedHassan.github.io/#teams)
+- 👨‍💻 All of my project's details are available at [Ahmed's Projects](https://ahmad7663.github.io/AhmedHassan.github.io/#teams)
 
 - 💬 Ask me about **C++, Javascript,React,**
 
