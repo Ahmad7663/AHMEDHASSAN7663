@@ -100,17 +100,7 @@ MY GITHUB PROFILE
 
 <p align="center">
 <div align="center">
- <a href="https://github.com/walidbosso"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> </br></br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-</br></br>
- </a>
-<a href="https://github.com/walidbosso"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
-  </a> 
   
  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=walidbosso&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
