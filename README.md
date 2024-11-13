@@ -112,29 +112,15 @@ MY GITHUB PROFILE
 <details open align="center">
   <summary>📈 More Stats</summary>
   <br>
- 
-<p align="center">
-<a href="https://github.com/walidbosso"> 
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
-</a></p>
-
 <p align="center">
 <div align="center">
  <a href="https://github.com/Ahmad7663"> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-</br></br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmad7663&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmad7663&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmad7663&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
  </a>
-
-
-
-
 </div>
-
-
-
 <a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
 
 <!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">    
