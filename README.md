@@ -112,21 +112,7 @@ MY GITHUB PROFILE
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad7663&theme=windows-dark)](https://git.io/streak-stats)
 
 </div>
-<details open align="center">
-  <summary>📈 More Stats</summary>
-  <br>
-<p align="center">
-<div align="center">
- <a href="https://github.com/Ahmad7663"> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmad7663&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmad7663&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmad7663&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
- </a>
-</div>
-</p >
-
-</details>
 
 <br><br>
 <h3 align="left">Activity:</h3>
